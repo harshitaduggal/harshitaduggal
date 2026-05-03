@@ -12,8 +12,11 @@
 * 📊 Love turning raw data into **meaningful insights & visualizations**
 * ⚡ Working on projects involving **Big Data pipelines & predictive models**
 * 🎯 Goal: Build impactful, scalable tech that actually solves problems
+  
 
 ---
+
+[Visit My Portfolio](https://portfolio-six-ashy-9eed0xbn10.vercel.app/)
 
 ## 🛠️ Tech Stack
 
